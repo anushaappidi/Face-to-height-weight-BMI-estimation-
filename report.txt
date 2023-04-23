@@ -1,0 +1,23 @@
+chapter 3-> FaceNet arch
+    3.1- Triplet loss
+    3.2-Triplet selection
+    3.3-Triplet selection
+    3.4-Inception Network
+    3.5-Labeled Faces in the Wild Dataset
+    3.6-Youtube Face database
+
+chapter 4-> All the Regression Models Description(used ones)
+    4.1-Linear Regression
+    4.2-Ridge Linear Regression
+    4.3-Random Forest Regressor
+    4.4-Kernel Ridge Regressiobn
+
+chapter 5-> Title
+
+chapter 6->results and analysis
+
+chapter 7-> Conculsion
+
+chapter 8->future scope
+
+chapter 9-> References
